@@ -31,8 +31,7 @@
         	android:text="@string/add_button"
         	android:textColor="#FFFFFF"
         	android:textSize="20sp"
-        	android:onClick="showAddContact"
-        	
+        	android:onClick="showAddContact"        	
         	 />
 
     </TableRow>
