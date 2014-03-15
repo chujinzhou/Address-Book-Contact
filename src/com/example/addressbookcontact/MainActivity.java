@@ -3,13 +3,14 @@ package com.example.addressbookcontact;
 import java.util.ArrayList;
 import java.util.HashMap;
 
-import com.example.addressbookcontact.*;
+import com.example.addressbookcontact.DBTools;
+import com.example.addressbookcontact.NewContact;
 
 import android.os.Bundle;
-import android.app.Activity;
+
 import android.app.ListActivity;
 import android.content.Intent;
-import android.view.Menu;
+
 import android.view.View;
 import android.widget.AdapterView;
 import android.widget.AdapterView.OnItemClickListener;
