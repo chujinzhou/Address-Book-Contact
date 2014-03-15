@@ -3,6 +3,8 @@ package com.example.addressbookcontact;
 import java.util.ArrayList;
 import java.util.HashMap;
 
+import com.example.addressbookcontact.*;
+
 import android.os.Bundle;
 import android.app.Activity;
 import android.app.ListActivity;

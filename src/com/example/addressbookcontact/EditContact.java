@@ -2,6 +2,8 @@ package com.example.addressbookcontact;
 
 import java.util.HashMap;
 
+import com.example.addressbookcontact.*;
+
 import android.app.Activity;
 import android.content.Intent;
 import android.os.Bundle;
