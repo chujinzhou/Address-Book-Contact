@@ -54,6 +54,8 @@ public class MainActivity extends ListActivity {
 			ListAdapter adapter = new SimpleAdapter(
 					MainActivity.this, contactList, R.layout.contact_entry, new String[]
 							{"contactId", "lastName","firstName"},new int[]{});
+			
+			setListAdapter(adapter);
 		}
 	}
 
