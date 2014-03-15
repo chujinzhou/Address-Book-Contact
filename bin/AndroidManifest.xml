@@ -22,6 +22,14 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+         <activity
+            android:name="com.example.addressbookcontact.NewContact"
+            android:label="" >
+        </activity>
+        <activity
+            android:name="com.example.addressbookcontact.EditContact"
+            android:label="" >
+        </activity>
     </application>
 
 </manifest>
