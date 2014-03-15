@@ -51,6 +51,7 @@ public class MainActivity extends ListActivity {
 				
 				
 			});
+			//yg talk antara database dan listView
 			ListAdapter adapter = new SimpleAdapter(
 					MainActivity.this, contactList, R.layout.contact_entry, new String[]
 							{"contactId", "lastName","firstName"},new int[]{});
